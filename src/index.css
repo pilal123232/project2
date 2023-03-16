@@ -1,0 +1,14 @@
+:root{
+   --gray-color : rgba(255, 255, 255, 0.637);
+   --light-color : rgba(231,231,231);
+   --violet-color : rgb(87, 0, 198,0.55) ;
+   --navy-blue-color : #23219b ;
+}
+body , html , #root , .App{
+   direction: rtl;
+}
+
+#root{
+   display: flex;
+}
+

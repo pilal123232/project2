@@ -1,0 +1,9 @@
+.App .col-10 .containt{
+   height: 91%;
+}
+
+@media (max-height:600px){
+   .App .col-10 .containt{
+      height: 89%;
+   }
+}
